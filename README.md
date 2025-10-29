@@ -30,6 +30,8 @@ The website contains the following sections:
 
 ## 🎯 Outcome
 A clean, responsive **personal portfolio webpage** that highlights my skills and projects with an attractive layout.
+![Screenshot 2025-10-29 200355](https://github.com/user-attachments/assets/3ff6fdb5-9563-4be7-b587-f1f6eff63dda)
+
 
 
 ## 🧩 Repository Link
